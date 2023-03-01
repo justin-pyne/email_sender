@@ -5,7 +5,7 @@ import smtplib
 
 
 #variables
-email_sender = "18pynejustin@gmail.com"
+email_sender = ""
 email_password = password
 
 email_receiver = "mixet97888@letpays.com"
